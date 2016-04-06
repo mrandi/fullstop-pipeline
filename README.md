@@ -1,6 +1,6 @@
 # fullstop-pipeline
 
-A continuous delivery pipeline for FIXME
+A continuous delivery pipeline for zalando-stups/fullstop
 
 ## Usage
 
